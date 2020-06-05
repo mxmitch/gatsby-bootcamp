@@ -12,7 +12,7 @@ const Footer = () => {
     }
   `)
   return (
-    <footer>
+    <footer style={{ position: "fixed", bottom: "0" }}>
       <p>Created by {data.site.siteMetadata.author}, © 2020</p>
     </footer>
   )
