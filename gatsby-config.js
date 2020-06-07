@@ -10,6 +10,7 @@ module.exports = {
     author: "Andrew Mead & Mitch Lum",
   },
   plugins: [
+    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-contentful",
       options: {
