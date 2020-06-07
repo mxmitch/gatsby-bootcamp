@@ -7,7 +7,9 @@ const ContactPage = () => {
       <h1>Contact Me</h1>
       <p>
         You can reach me at{" "}
-        <a href="https://www.instagram.com/mxmitch/">@mxmitch</a>
+        <a target="_blank" href="https://www.instagram.com/mxmitch/">
+          @mxmitch
+        </a>
       </p>
     </Layout>
   )
