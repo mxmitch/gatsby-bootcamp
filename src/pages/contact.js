@@ -7,7 +7,11 @@ const ContactPage = () => {
       <h1>Contact Me</h1>
       <p>
         You can reach me at{" "}
-        <a target="_blank" href="https://www.instagram.com/mxmitch/">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.instagram.com/mxmitch/"
+        >
           @mxmitch
         </a>
       </p>
